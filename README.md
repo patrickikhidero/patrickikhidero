@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chmva9k5p-patrickikhidero.vercel.app/](https://my-portfolio-chmva9k5p-patrickikhidero.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://patrick-ikhidero.me](https://patrick-ikhidero.me)
 
 - 📝 I regularly write articles on [https://piogatesolution.com/blog](https://piogatesolution.com/blog)
 
