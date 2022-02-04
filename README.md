@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://piogatesolution.com/blog](https://piogatesolution.com/blog)
 
-- 💬 Ask me about **Python, Django and Flask, Node.js, Project Manangement, Express.js,**
+- 💬 Ask me about **Python, Django and RESTFUL API's, JavaScript, Project Manangement, Heroku, Docker,**
 
 - 📫 How to reach me **ikhideropatrick@gmail.com**
 
