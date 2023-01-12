@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">I am a proactive, smart, driven engineer and leader with more than 4years of providing engineering solutions and managing technical projects. I have developed software solutions for business use cases from conceptualization to deployment. I am a proficient Python developer. I have working proficiency in verbal and written English; I can also communicate in the French language.
+<h3 align="center">I am a proactive, smart, driven engineer and leader with more than 5years of providing engineering solutions and managing technical projects. I have developed software solutions for business use cases from conceptualization to deployment. I am a proficient Python developer. I have working proficiency in verbal and written English; I can also communicate in the French language.
 </h3>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Geographical Information System**
