@@ -2,13 +2,13 @@
 <h3 align="center">I am a proactive, smart, driven engineer and leader with more than 5years of providing engineering solutions and managing technical projects. I have developed software solutions for business use cases from conceptualization to deployment. I am a proficient Python developer. I have working proficiency in verbal and written English; I can also communicate in the French language.
 </h3>
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Geographical Information System**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Geographical Information Systems**
 
 - 👨‍💻 All of my projects are available at [https://patrick-ikhidero.me](https://patrick-ikhidero.me)
 
 - 📝 I regularly write articles on [https://piogatesolution.com/blog](https://piogatesolution.com/blog)
 
-- 💬 Ask me about **Python, Django and RESTFUL API's, JavaScript, Project Manangement, Heroku, Docker,**
+- 💬 Ask me about **Machine Learning, Software Engineering, Python, Django & RESTFUL API's, System Architecture, Project Manangement, GIS**
 
 - 📫 How to reach me **ikhideropatrick@gmail.com**
 
