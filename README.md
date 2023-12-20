@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">I am a proactive, smart, driven engineer and leader with more than 5years of providing engineering solutions and managing technical projects. I have developed software solutions for business use cases from conceptualization to deployment. I am a proficient Python developer. I have working proficiency in verbal and written English; I can also communicate in the French language.
+<h2 align="center">👨‍💻 Software Engineer | Passionate about AI & Fintech | GIS Enthusiast</h2>
+<h3 align="center">
+I'm a dedicated software engineer with a deep interest in the transformative power of artificial intelligence and fintech. My journey in tech has been driven by a fascination with how software can not only solve complex problems but also shape the future of finance and geographical information systems (GIS).
+
+Professionally, my experience spans developing robust AI models that streamline financial processes and creating innovative GIS applications that enhance our understanding of spatial data. I thrive on challenges that require out-of-the-box thinking and enjoy collaborating with teams who are as passionate about technology as I am.
+
+What Excites Me in Tech:
+
+🧠 AI & Machine Learning: Leveraging AI to create intelligent systems that not only automate tasks but also provide insightful analytics.
+💳 Fintech Innovations: Exploring how technology can revolutionize the way we handle finance, from digital transactions to blockchain applications.
+🌍 GIS Technology: Utilizing GIS to interpret and visualize data in ways that improve decision-making and understanding of spatial phenomena.
+
+Beyond Coding:
+
+🥗 A Love for Fruits & Salads: Beyond my tech life, I'm an avid fruit enthusiast and enjoy crafting my own healthy, vibrant salads. This hobby reflects my creativity and attention to detail, qualities that I bring into my professional work.
+🌱 Sustainability Advocate: Passionate about sustainability, I believe in integrating eco-friendly practices both in my personal life and through technology.
+
+I'm always open to connecting with like-minded professionals and exploring new opportunities in AI, fintech, and GIS. Feel free to reach out to discuss technology, and sustainability, or even share your favorite fruit salad recipes!
 </h3>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Geographical Information Systems**
@@ -11,8 +28,6 @@
 - 💬 Ask me about **Machine Learning, Software Engineering, Python, Django & RESTFUL API's, System Architecture, Project Manangement, GIS**
 
 - 📫 How to reach me **ikhideropatrick@gmail.com**
-
-- ⚡ Fun fact **I like fruits and i make my own salad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
