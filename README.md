@@ -23,9 +23,9 @@ I'm always open to connecting with like-minded professionals and exploring new o
 
 - 👨‍💻 All of my projects are available at [https://patrick-ikhidero.me](https://patrick-ikhidero.me)
 
-- 📝 I regularly write articles on [https://piogatesolution.com/blog](https://piogatesolution.com/blog)
+- 📝 I regularly write articles on [Medium]([https://piogatesolution.com/blog](https://medium.com/@patrick.ikhidero))
 
-- 💬 Ask me about **Machine Learning, Software Engineering, Python, Django & RESTFUL API's, System Architecture, Project Manangement, GIS**
+- 💬 Ask me about **Machine Learning, Software Engineering, Python, Django & RESTFUL APIs, System Architecture, Project Management, GIS**
 
 - 📫 How to reach me **ikhideropatrick@gmail.com**
 
