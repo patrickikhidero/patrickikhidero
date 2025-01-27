@@ -3,7 +3,7 @@
 <h3 align="center">
 I'm a dedicated software engineer with a deep interest in the transformative power of artificial intelligence and fintech. My journey in tech has been driven by a fascination with how software can not only solve complex problems but also shape the future of finance and geographical information systems (GIS).
 
-Professionally, my experience spans developing robust AI models that streamline financial processes and creating innovative GIS applications that enhance our understanding of spatial data. I thrive on challenges that require out-of-the-box thinking and enjoy collaborating with teams who are as passionate about technology as I am.
+Professionally, my experience includes developing robust AI models that streamline financial processes and creating innovative GIS applications that enhance our understanding of spatial data. I thrive on challenges that require unconventional thinking and enjoy collaborating with teams that share my passion for technology.
 
 What Excites Me in Tech:
 
@@ -14,9 +14,9 @@ What Excites Me in Tech:
 Beyond Coding:
 
 🥗 A Love for Fruits & Salads: Beyond my tech life, I'm an avid fruit enthusiast and enjoy crafting my own healthy, vibrant salads. This hobby reflects my creativity and attention to detail, qualities that I bring into my professional work.
-🌱 Sustainability Advocate: Passionate about sustainability, I believe in integrating eco-friendly practices both in my personal life and through technology.
+🌱 Sustainability Advocate: I am passionate about sustainability and believe in integrating eco-friendly practices into my personal life and through technology.
 
-I'm always open to connecting with like-minded professionals and exploring new opportunities in AI, fintech, and GIS. Feel free to reach out to discuss technology, and sustainability, or even share your favorite fruit salad recipes!
+I'm always open to connecting with like-minded professionals and exploring new opportunities in AI, fintech, and GIS. Feel free to reach out to discuss technology and sustainability or share your favourite fruit salad recipes!
 </h3>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence and Geographical Information Systems**
@@ -25,9 +25,11 @@ I'm always open to connecting with like-minded professionals and exploring new o
 
 - 📝 I regularly write articles on [https://piogatesolution.com/blog](https://medium.com/@patrick.ikhidero)
 
+- 🤔 My  contribute on  Stackoverflow [[https://piogatesolution.com/blog](https://stackoverflow.com/users/17958502/patrick-ohaime-ikhidero)](Stackoverflow)
+  
 - 💬 Ask me about **Machine Learning, Software Engineering, Python, Django & RESTFUL APIs, System Architecture, Project Management, GIS**
 
-- 📫 How to reach me **ikhideropatrick@gmail.com**
+- 📫 How to reach me **mailto:ikhideropatrick@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
